@@ -1,8 +1,8 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "ecdqef",
+  "description": "ecdqef",
   "keywords": [
-    "vmess or vles"
+    "ecdqef"
   ],
   "env": {
     "PROTOCOL": {
@@ -16,8 +16,8 @@
       "required": false
     } 
   },
-  "website": "https://github.com/louyour/ngix-fixed",
-  "repository": "https://github.com/louyour/ngix-fixed",
+  "website": "https://github.com/happynewayear/GGdd-TH3REE",
+  "repository": "https://github.com/happynewayear/GGdd-TH3REE",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
